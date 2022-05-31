@@ -1,0 +1,22 @@
+{
+  "name": "wmjtyd_zoom",
+  "version": "1.0.0",
+  "description": "zoom using gun ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oss-jtyd/wmjtyd_zoom.git"
+  },
+  "author": "liuyingbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oss-jtyd/wmjtyd_zoom/issues"
+  },
+  "homepage": "https://github.com/oss-jtyd/wmjtyd_zoom#readme",
+  "dependencies": {
+    "gun": "^0.2020.1237"
+  }
+}
